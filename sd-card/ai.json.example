@@ -1,0 +1,8 @@
+{
+  "tts_provider": "google",
+  "google_key": "DAN_KHOA_GOOGLE_CLOUD_VAO_DAY",
+  "gemini_key": "",
+  "voice_vi": "",
+  "voice_en": "",
+  "speaking_rate": 1.0
+}

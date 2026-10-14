@@ -1,0 +1,180 @@
+# Bộ thẻ "Thông điệp hôm nay" — chép file này vào thư mục gốc thẻ nhớ, đặt tên oracle.txt
+# Mỗi dòng là một thẻ:   Nội dung | Nguồn (không bắt buộc)
+# Thêm chữ Hán gốc ở đầu dòng, cách bằng ::   ví dụ:  上善若水 :: Thượng thiện nhược thủy — ... | Lão Tử
+# (chữ Hán chỉ hiện khi font đọc sách đang chọn có chữ Hán, như BookerlyLite)
+# Dòng bắt đầu bằng # là ghi chú. Thêm, bớt, sửa tuỳ ý — máy chọn ngẫu nhiên mỗi ngày một thẻ.
+#
+# ---------- Đọc sách ----------
+Hôm nay chỉ cần đọc thêm mười trang. Mười trang mỗi ngày là vài chục cuốn mỗi năm.
+Đọc chậm không có gì sai. Hiểu một trang còn hơn lướt qua cả chương.
+Có những cuốn sách đến đúng lúc mình cần. Có lẽ cuốn này cũng vậy.
+Gấp sách lại, nhắm mắt, thử kể lại cho chính mình nghe điều vừa đọc.
+Một câu văn chạm vào lòng thì đáng để chép lại.
+Đọc để biết thêm, nhưng cũng để biết mình chưa biết bao nhiêu.
+Đừng tiếc khi bỏ dở một cuốn sách không hợp. Thời gian của bạn quý hơn thế.
+Sách không thay đổi đời bạn. Điều bạn làm sau khi gấp sách lại mới thay đổi.
+Mỗi cuốn sách là một cuộc trò chuyện với người bạn chưa từng gặp.
+Hôm nay hãy đọc một thứ khác hẳn thói quen của mình.
+Đọc lại một cuốn sách cũ cũng là gặp lại chính mình của ngày trước.
+Đọc sách hay cũng như chuyện trò với các bậc hiền nhân thời trước. | René Descartes
+Sách hay không cần đọc nhanh. Nó cần được ở lại lâu.
+Đọc xong, hãy kể cho một người khác nghe. Chia sẻ là cách nhớ lâu nhất.
+Một chương trước khi ngủ, tốt hơn một giờ lướt điện thoại.
+# ---------- Nghỉ ngơi ----------
+Nghỉ ngơi cũng là một phần của tiến bộ, không phải là lười biếng.
+Ngủ đủ giấc là món quà nhỏ nhất bạn có thể tặng cho ngày mai.
+Hôm nay đã đủ rồi. Việc còn dở, sáng mai làm tiếp.
+Thở chậm ba hơi. Không có gì gấp đến mức không chờ nổi ba hơi thở.
+Tắt màn hình sớm một chút. Đôi mắt sẽ cảm ơn bạn.
+Bạn không cần phải có năng suất mỗi phút trong ngày.
+Có những ngày chỉ cần đi qua cho trọn vẹn là đủ.
+Uống một cốc nước. Đơn giản vậy thôi, nhưng hay bị quên.
+Đi bộ mười phút. Nhiều câu trả lời đến khi đôi chân đang bước.
+Im lặng một lúc cũng là cách để lắng nghe.
+# ---------- Tự tử tế với mình ----------
+Hãy nói với mình bằng giọng mà bạn vẫn dùng để an ủi một người bạn.
+Bạn đã làm tốt hơn bạn nghĩ.
+So sánh với hôm qua của chính mình thôi, đừng so với ai khác.
+Sai một lần là bài học. Sai hai lần mới là chuyện cần ngẫm.
+Không ai thấy hết những cố gắng thầm lặng của bạn. Nhưng chúng vẫn có giá trị.
+Bạn được phép đổi ý khi đã hiểu thêm điều mới.
+Chậm cũng được, miễn là đừng dừng.
+Mọi chuyên gia đều từng là người mới bắt đầu.
+Biết ơn một điều nhỏ hôm nay: một bữa ăn ngon, một tin nhắn, một tia nắng.
+Lòng tốt với chính mình không phải là dễ dãi với mình.
+# ---------- Làm việc & học ----------
+Việc khó nhất thường là năm phút đầu tiên. Cứ bắt đầu đi.
+Chia việc lớn thành bước nhỏ đến mức thấy buồn cười, rồi làm bước đầu.
+Một việc làm xong tốt hơn mười việc làm dở.
+Hôm nay chọn một việc quan trọng nhất, và làm nó trước tiên.
+Học một điều mới mỗi ngày, dù nhỏ thế nào.
+Ghi lại ý tưởng ngay khi nó đến. Trí nhớ không đáng tin như bạn tưởng.
+Muốn hiểu sâu một điều, hãy thử giảng lại nó cho người khác.
+Đừng đợi đủ cảm hứng. Cảm hứng thường đến khi đã bắt tay vào làm.
+Kế hoạch tốt nhất là kế hoạch bạn thực sự làm theo.
+Hỏi một câu "ngớ ngẩn" còn hơn đoán sai cả tuần.
+Có công mài sắt, có ngày nên kim. | Tục ngữ
+Học, học nữa, học mãi.
+Đi một ngày đàng, học một sàng khôn. | Tục ngữ
+Không thầy đố mày làm nên. | Tục ngữ
+Học thầy không tày học bạn. | Tục ngữ
+Kiến tha lâu cũng đầy tổ. | Tục ngữ
+# ---------- Con người & gia đình ----------
+Gọi cho người thân một cuộc. Không cần lý do.
+Lắng nghe để hiểu, đừng chỉ lắng nghe để trả lời.
+Một lời cảm ơn đúng lúc có thể làm sáng cả ngày của ai đó.
+Ăn quả nhớ kẻ trồng cây. | Tục ngữ
+Một miếng khi đói bằng một gói khi no. | Tục ngữ
+Lời nói chẳng mất tiền mua, lựa lời mà nói cho vừa lòng nhau. | Ca dao
+Bán anh em xa, mua láng giềng gần. | Tục ngữ
+Một cây làm chẳng nên non, ba cây chụm lại nên hòn núi cao. | Ca dao
+Hãy hỏi thăm một người bạn lâu rồi chưa gặp.
+Tha thứ không phải vì người kia xứng đáng, mà vì lòng mình cần nhẹ nhõm.
+# ---------- Sống chậm ----------
+Nước chảy đá mòn. | Tục ngữ
+Hôm nay hãy làm một việc thật chậm, và để ý từng chi tiết của nó.
+Ăn bữa tối mà không nhìn màn hình.
+Ngắm bầu trời một phút. Nó thay đổi mỗi ngày mà ít ai để ý.
+Bớt một việc không cần thiết trong danh sách hôm nay.
+Điều gì không thay đổi được thì buông xuống. Điều gì thay đổi được thì bắt tay vào.
+Đủ là một từ đẹp.
+Không phải câu hỏi nào cũng cần trả lời ngay hôm nay.
+Hạnh phúc thường nằm trong những việc rất bình thường.
+Một ngày bình yên cũng là một ngày đáng nhớ.
+# ---------- Thông điệp gieo quẻ ----------
+Quẻ hôm nay: kiên nhẫn. Điều bạn chờ đang đến, chỉ là chưa tới lúc.
+Quẻ hôm nay: mở lời. Một câu hỏi bạn ngại nói ra sẽ mở ra cánh cửa mới.
+Quẻ hôm nay: dọn dẹp. Bàn làm việc gọn thì đầu óc cũng thoáng.
+Quẻ hôm nay: tò mò. Hãy hỏi "tại sao" thêm một lần nữa.
+Quẻ hôm nay: biết ơn. Ai đó đã giúp bạn mà bạn chưa kịp nói lời cảm ơn.
+Quẻ hôm nay: can đảm. Việc bạn đang né tránh nhỏ hơn bạn tưởng.
+Quẻ hôm nay: nghỉ ngơi. Cái cây cũng cần mùa đông.
+Quẻ hôm nay: tập trung. Làm một việc một lúc thôi.
+Quẻ hôm nay: hào phóng. Chia sẻ một điều bạn biết cho người cần nó.
+Quẻ hôm nay: bắt đầu. Ngày tốt nhất để bắt đầu là hôm nay.
+Quẻ hôm nay: lắng nghe. Câu trả lời có thể đến từ người bạn ít ngờ nhất.
+Quẻ hôm nay: viết. Ghi ba dòng về ngày hôm nay trước khi ngủ.
+Quẻ hôm nay: niềm vui nhỏ. Làm một việc chỉ vì bạn thích nó.
+Quẻ hôm nay: buông. Có điều đang giữ chặt mà không còn cần nữa.
+Quẻ hôm nay: kết nối. Một cuộc trò chuyện tử tế đang chờ bạn.
+# ---------- English ----------
+Ten pages a day is a few dozen books a year. Start with ten.
+Rest is part of the work, not a break from it.
+Be as kind to yourself as you would be to a friend.
+The best time to start is now; the second best is right after this page.
+Read slowly. A good sentence deserves a second look.
+You don't have to finish every book you start.
+Small steps, taken daily, cover a long road.
+Done is better than perfect.
+Ask the question. Curiosity is never wasted.
+Close the book and tell yourself what you just learned.
+A journey of a thousand miles begins with a single step. | Lão Tử
+Waste no more time arguing what a good man should be. Be one. | Marcus Aurelius
+We suffer more often in imagination than in reality. | Seneca
+Well begun is half done. | Aristotle
+The unexamined life is not worth living. | Socrates
+Turn the screen off a little earlier tonight.
+Today, notice one beautiful ordinary thing.
+Progress, not perfection.
+# ---------- Cổ ngữ Hán Việt (chữ Hán :: âm Hán Việt — nghĩa) ----------
+上善若水 :: Thượng thiện nhược thủy — Bậc thiện cao nhất giống như nước: nuôi muôn loài mà không tranh. | Lão Tử, Đạo Đức Kinh
+知足者富 :: Tri túc giả phú — Biết đủ là giàu. | Lão Tử, Đạo Đức Kinh
+知人者智，自知者明 :: Tri nhân giả trí, tự tri giả minh — Hiểu người là khôn, hiểu mình mới là sáng. | Lão Tử, Đạo Đức Kinh
+大器晚成 :: Đại khí vãn thành — Đồ quý lớn thì thành muộn. Đừng nóng vội. | Lão Tử, Đạo Đức Kinh
+柔弱勝剛強 :: Nhu nhược thắng cương cường — Mềm mỏng thắng cứng rắn. | Lão Tử, Đạo Đức Kinh
+禍兮福之所倚，福兮禍之所伏 :: Họa hề phúc chi sở ỷ, phúc hề họa chi sở phục — Trong họa có phúc, trong phúc có họa. | Lão Tử, Đạo Đức Kinh
+己所不欲，勿施於人 :: Kỷ sở bất dục, vật thi ư nhân — Điều mình không muốn, đừng làm cho người. | Luận Ngữ
+溫故而知新 :: Ôn cố nhi tri tân — Ôn cái cũ mà biết cái mới, thế là đủ làm thầy. | Luận Ngữ
+三人行，必有我師 :: Tam nhân hành, tất hữu ngã sư — Ba người cùng đi, ắt có người là thầy ta. | Luận Ngữ
+知之為知之，不知為不知 :: Tri chi vi tri chi, bất tri vi bất tri, thị tri dã — Biết thì nói biết, không biết nói không biết, ấy mới là biết. | Luận Ngữ
+欲速則不達 :: Dục tốc tắc bất đạt — Muốn nhanh thì lại không tới. | Luận Ngữ
+過猶不及 :: Quá do bất cập — Quá cũng dở như chưa tới. | Luận Ngữ
+人無遠慮，必有近憂 :: Nhân vô viễn lự, tất hữu cận ưu — Người không lo xa, ắt có buồn gần. | Luận Ngữ
+君子坦蕩蕩 :: Quân tử thản đãng đãng — Người quân tử lòng thênh thang, thanh thản. | Luận Ngữ
+苟日新，日日新，又日新 :: Cẩu nhật tân, nhật nhật tân, hựu nhật tân — Mỗi ngày đổi mới, ngày ngày đổi mới. | Đại Học
+修身齊家治國平天下 :: Tu thân, tề gia, trị quốc, bình thiên hạ — Việc lớn nào cũng bắt đầu từ sửa mình. | Đại Học
+玉不琢，不成器 :: Ngọc bất trác, bất thành khí; nhân bất học, bất tri đạo — Ngọc không mài không thành đồ quý, người không học không biết đạo. | Lễ Ký
+天行健，君子以自強不息 :: Thiên hành kiện, quân tử dĩ tự cường bất tức — Trời vận hành mạnh mẽ, người quân tử tự cường không nghỉ. | Kinh Dịch, quẻ Càn
+地勢坤，君子以厚德載物 :: Địa thế khôn, quân tử dĩ hậu đức tải vật — Đất rộng dày, người quân tử lấy đức dày mà chở muôn vật. | Kinh Dịch, quẻ Khôn
+窮則變，變則通，通則久 :: Cùng tắc biến, biến tắc thông, thông tắc cửu — Đến cùng thì đổi, đổi thì thông, thông thì bền lâu. | Kinh Dịch, Hệ Từ
+積善之家，必有餘慶 :: Tích thiện chi gia, tất hữu dư khánh — Nhà tích điều thiện ắt có phúc dư. | Kinh Dịch, Văn Ngôn
+天時不如地利，地利不如人和 :: Thiên thời bất như địa lợi, địa lợi bất như nhân hòa — Thời trời không bằng thế đất, thế đất không bằng lòng người. | Mạnh Tử
+生於憂患，死於安樂 :: Sinh ư ưu hoạn, tử ư an lạc — Gian khó làm người sống mạnh, an nhàn làm người lụi tàn. | Mạnh Tử
+君子之交淡若水 :: Quân tử chi giao đạm nhược thủy — Tình bạn người quân tử nhạt như nước mà bền. | Trang Tử
+知彼知己，百戰不殆 :: Tri bỉ tri kỷ, bách chiến bất đãi — Biết người biết ta, trăm trận không nguy. | Tôn Tử Binh Pháp
+塞翁失馬，焉知非福 :: Tái ông thất mã, an tri phi phúc — Ông lão mất ngựa, biết đâu lại là phúc. | Hoài Nam Tử
+百聞不如一見 :: Bách văn bất như nhất kiến — Trăm lần nghe không bằng một lần thấy. | Hán Thư
+有志者事竟成 :: Hữu chí giả sự cánh thành — Người có chí thì việc ắt thành. | Hậu Hán Thư
+海納百川，有容乃大 :: Hải nạp bách xuyên, hữu dung nãi đại — Biển nhận trăm sông, có bao dung mới lớn. | Lâm Tắc Từ
+謀事在人，成事在天 :: Mưu sự tại nhân, thành sự tại thiên — Lo liệu là việc của người, thành hay không là ở trời. | Cổ ngữ
+忍一時風平浪靜 :: Nhẫn nhất thời phong bình lãng tĩnh — Nhịn một lúc, sóng yên gió lặng. | Cổ ngữ
+水滴石穿 :: Thủy tích thạch xuyên — Nước nhỏ giọt lâu ngày cũng xuyên thủng đá. | Cổ ngữ
+飲水思源 :: Ẩm thủy tư nguyên — Uống nước nhớ nguồn. | Cổ ngữ
+有麝自然香 :: Hữu xạ tự nhiên hương — Có xạ thì tự nhiên thơm, chẳng cần khoe. | Cổ ngữ
+德能勝數 :: Đức năng thắng số — Đức dày có thể thắng được số mệnh. | Cổ ngữ
+# ---------- Phong thủy ----------
+一命二運三風水，四積陰德五讀書 :: Nhất mệnh, nhị vận, tam phong thủy, tứ tích âm đức, ngũ độc thư — Phong thủy đứng thứ ba; đức và sách vở mình tự vun được. | Cổ ngữ phong thủy
+先積德，後尋龍 :: Tiên tích đức, hậu tầm long — Trước lo tích đức, sau mới tìm đất tốt. | Cổ ngữ phong thủy
+福地福人居 :: Phúc địa phúc nhân cư — Đất phúc dành cho người có phúc ở. | Cổ ngữ phong thủy
+氣乘風則散，界水則止 :: Khí thừa phong tắc tán, giới thủy tắc chỉ — Khí gặp gió thì tan, gặp nước thì dừng. | Quách Phác, Táng Thư
+Phong thủy hôm nay: dọn sạch lối vào nhà. Theo quan niệm xưa, khí tốt vào nhà qua cửa chính.
+Phong thủy hôm nay: mở cửa sổ đón nắng sớm cho nhà thêm dương khí.
+Phong thủy hôm nay: bỏ đi một món đồ hỏng. Người xưa cho rằng đồ hư làm khí trong nhà bị tắc.
+Phong thủy hôm nay: ngồi làm việc lưng tựa tường, mặt nhìn ra cửa, ấy là thế có chỗ dựa.
+Phong thủy hôm nay: tưới cây xanh trong nhà. Cây khỏe là hành Mộc vượng, nhà thêm sinh khí.
+Phong thủy hôm nay: bàn làm việc gọn thì đầu óc thông. Cất bớt ba món không dùng tới.
+Phong thủy hôm nay: thay đồng hồ chết hoặc chỉnh lại giờ. Thời gian đứng yên là điều kiêng.
+Nhà sạch thì mát, bát sạch ngon cơm. | Tục ngữ
+# ---------- Quà tặng cuộc sống ----------
+Hạnh phúc không phải là đích đến, mà là cách ta đi mỗi ngày.
+Người ta nhớ cách bạn khiến họ cảm thấy, lâu hơn nhớ lời bạn nói.
+Cây cao đến mấy cũng bắt đầu từ một hạt nhỏ dưới đất.
+Đừng đợi có thời gian mới làm điều quan trọng. Hãy dành thời gian cho nó.
+Một ngọn nến thắp cho người khác không làm ngọn nến của bạn tối đi.
+Có những người đến để ở lại, có những người đến để dạy ta một bài học. Cả hai đều đáng biết ơn.
+Lời xin lỗi chân thành không làm ta nhỏ đi, chỉ làm lòng ta nhẹ hơn.
+Mỗi buổi sáng là một trang giấy trắng. Hôm nay bạn muốn viết gì lên đó?
+Biết ơn biến những gì ta có thành đủ đầy.
+Đi chậm không sao, miễn là đừng quay lưng với con đường mình chọn.
+Đôi khi điều can đảm nhất là nói "con xin lỗi" với cha mẹ, hay "cảm ơn" với chính mình.
+Khi không thay đổi được hướng gió, hãy chỉnh lại cánh buồm.
