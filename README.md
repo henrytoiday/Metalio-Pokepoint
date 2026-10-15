@@ -1,4 +1,4 @@
-# CrossPoint cho Metalio E-Ink 4 — bản Việt hoá v19 by Huymelon
+# CrossPoint cho Metalio E-Ink 4 — bản Việt hoá v1.0.20 by Huymelon
 
 Firmware thay thế cho máy đọc sách **Metalio E-Ink 4** (ESP32-S3, màn e-ink 3,97"), dựng trên mã nguồn mở [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader).
 
@@ -8,7 +8,7 @@ Firmware thay thế cho máy đọc sách **Metalio E-Ink 4** (ESP32-S3, màn e-
 
 > ⚠️ Chỉ dành cho **Metalio E-Ink 4**. Không cài lên Xteink X3/X4 hay máy khác. Hãy sao lưu trước khi cài (xem mục 1).
 
-## Có gì trong bản v19
+## Có gì trong bản v1.0.20
 
 - **Đọc to (TTS)** bằng Google Cloud Text-to-Speech, có giọng Chirp3-HD nam và nữ. Máy ngắt nghỉ tự nhiên ở dấu phẩy và dấu chấm, đọc liền mạch qua các trang. Wi-Fi tự kết nối ngầm, trang sách vẫn giữ nguyên. Chỉ nút Home (màu cam) mới dừng đọc.
 - **Tai nghe Bluetooth**: tìm và kết nối ngay trên máy, ở bảng điều khiển nhanh, ô "Tai nghe".
@@ -16,13 +16,14 @@ Firmware thay thế cho máy đọc sách **Metalio E-Ink 4** (ESP32-S3, màn e-
 - **Từ điển** Anh–Việt và Anh–Anh hiển thị phiên âm IPA đầy đủ.
 - **Màn hình chờ sạch**, không còn bóng trang cũ. Màn này có bìa sách, tiến độ đọc, giờ hoàng đạo, việc nên và kiêng, kèm thông điệp mỗi ngày.
 - Giao diện **"Máy quét cổ"**.
+- **Tự cập nhật qua Wi-Fi** từ repo này (xem mục 2c).
 
 ## Trong repo này
 
 | Đường dẫn | Dùng để |
 |---|---|
-| `firmware/crosspoint-v19.bin` | Cập nhật từ thẻ nhớ ngay trên máy (máy đã chạy CrossPoint) |
-| `firmware/crosspoint-v19-factory.bin` | Nạp qua cáp USB, dùng khi cài lần đầu hoặc cứu máy |
+| `firmware/crosspoint-v1.0.20-metalio_eink4.bin` (cũng có ở Releases) | Cập nhật từ thẻ nhớ ngay trên máy (máy đã chạy CrossPoint) |
+| `firmware/crosspoint-v1.0.20-factory.bin` | Nạp qua cáp USB, dùng khi cài lần đầu hoặc cứu máy |
 | `firmware/SHA256SUMS.txt` | Mã kiểm tra để chắc file tải về không bị lỗi |
 | `sd-card/ai.json.example` | File mẫu để nhập khoá Google Cloud |
 | `sd-card/oracle.txt` | Bộ thẻ "Thông điệp hôm nay" |
@@ -60,7 +61,7 @@ Nếu esptool báo không kết nối được, hãy thử cáp hoặc cổng US
 
 ---
 
-## 2. Cài bản mới (v19)
+## 2. Cài bản mới (v1.0.20)
 
 Trước khi cài, kiểm tra file tải về có nguyên vẹn không:
 
@@ -70,9 +71,9 @@ cd firmware && shasum -a 256 -c SHA256SUMS.txt
 
 ### Cách A: cập nhật từ thẻ nhớ (máy đã chạy CrossPoint)
 
-1. Chép `crosspoint-v19.bin` vào **thư mục gốc** thẻ nhớ.
+1. Chép `crosspoint-v1.0.20-metalio_eink4.bin` vào **thư mục gốc** thẻ nhớ.
 2. Trên máy, vào **Cài đặt → Hệ thống → Cập nhật firmware từ thẻ SD**.
-3. Chọn `crosspoint-v19.bin`. Máy sẽ kiểm tra file, ghi và tự khởi động lại.
+3. Chọn `crosspoint-v1.0.20-metalio_eink4.bin`. Máy sẽ kiểm tra file, ghi và tự khởi động lại.
 4. **Đừng tắt máy hay rút thẻ** trong lúc đang ghi.
 
 Sách, cài đặt và khoá API nằm trên thẻ nên được giữ nguyên.
@@ -80,13 +81,13 @@ Sách, cài đặt và khoá API nằm trên thẻ nên được giữ nguyên.
 ### Cách B: nạp qua cáp USB (lần đầu cài, hoặc khi máy không khởi động)
 
 ```bash
-python3 -m esptool --chip esp32s3 --port /dev/cu.usbmodemXXXX write_flash 0x0 crosspoint-v19-factory.bin
+python3 -m esptool --chip esp32s3 --port /dev/cu.usbmodemXXXX write_flash 0x0 crosspoint-v1.0.20-factory.bin
 ```
 
 Nạp xong, bấm nút nguồn hoặc rút cáp ra cắm lại để máy khởi động.
 
 > Nếu chỉ muốn nạp phần ứng dụng, giữ nguyên bootloader và bảng phân vùng:
-> `write_flash 0x10000 crosspoint-v19.bin`
+> `write_flash 0x10000 crosspoint-v1.0.20-metalio_eink4.bin`
 
 ### Quay về firmware gốc của hãng
 
@@ -95,6 +96,44 @@ python3 -m esptool --chip esp32s3 --port /dev/cu.usbmodemXXXX write_flash 0x0 me
 ```
 
 ---
+
+## 2b. Cài font và từ điển (không bắt buộc)
+
+Firmware vẫn chạy bình thường khi không có các gói này. Muốn có font đọc sách kèm phiên âm IPA và hai bộ từ điển, hãy tải các gói ở mục [**Releases**](https://github.com/huymelon/Metalio-Pokepoint/releases) của repo. Bạn chỉ cần tải cỡ chữ mình hay dùng:
+
+| Gói | Nội dung | Nguồn và giấy phép |
+|---|---|---|
+| `fonts-Literata-12-14.zip`, `-16`, `-18`, `-20` | Font có chân Literata, chia gói theo cỡ chữ, có ký tự IPA | Literata và Noto (SIL OFL) |
+| `fonts-BeVietnamPro-12-14.zip`, `-16`, `-18`, `-20` | Font không chân Be Vietnam Pro, chia gói theo cỡ chữ, có ký tự IPA | Be Vietnam Pro và Noto (SIL OFL) |
+| `tu-dien-anh-viet.zip` | Từ điển Anh–Việt, khoảng 387.000 mục | OVDP (Open Vietnamese Dictionary Project) |
+| `tu-dien-anh-anh.zip` | Từ điển Anh–Anh | Wiktionary (CC BY-SA) |
+
+Cách cài:
+
+1. Giải nén từng gói ngay tại **thư mục gốc** thẻ nhớ. Mỗi gói đã có sẵn thư mục `fonts/` hoặc `dictionaries/`, nên file tự vào đúng chỗ: `/fonts/Literata/…`, `/dictionaries/anh-viet/…`.
+2. Cắm thẻ lại vào máy:
+   - Chọn font ở **Cài đặt → Trình đọc → Phông chữ trình đọc**.
+   - Chọn từ điển ở mục từ điển trong Cài đặt. Nếu chưa chọn, máy tự dùng bộ đầu tiên tìm thấy.
+
+## 2c. Cập nhật qua Wi-Fi (từ v1.0.20 trở đi)
+
+Từ bản v1.0.20, máy tự lấy bản mới từ mục [Releases](https://github.com/huymelon/Metalio-Pokepoint/releases) của repo này. Máy không lấy bản CrossPoint gốc, nên các tính năng tiếng Việt không bị ghi đè.
+
+**Người dùng:**
+
+1. Vào **Cài đặt → Hệ thống → Kiểm tra cập nhật**.
+2. Nếu có bản mới, chọn cài đặt. Máy tự tải, ghi rồi khởi động lại.
+
+Bản mới được ghi vào phân vùng dự phòng. Nếu mất mạng giữa chừng, máy vẫn chạy bản cũ.
+
+**Người phát hành bản mới:**
+
+1. Tăng số phiên bản `[metalio] version` trong `platformio.ini`, ví dụ `1.0.21`.
+2. Build môi trường `metalio_eink4-gh_release`.
+3. Trên GitHub, tạo Release với tag **`v1.0.21`**.
+4. Đính kèm file đặt **đúng tên** `crosspoint-v1.0.21-metalio_eink4.bin`.
+
+Máy chỉ đề nghị cập nhật khi số phiên bản trên Release lớn hơn bản đang chạy.
 
 ## 3. Nhập khoá Google Cloud (cho đọc to và ghi chú giọng nói)
 

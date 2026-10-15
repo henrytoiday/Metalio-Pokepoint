@@ -1,0 +1,4 @@
+ai.json
+**/ai.json
+*.local.*
+.DS_Store

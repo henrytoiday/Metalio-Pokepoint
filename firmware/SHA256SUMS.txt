@@ -1,2 +1,2 @@
-a6e31f6a4cf09d7b200281d766137c29e9a1a9e2119cfa2d221a2551148c8a88  crosspoint-v19-factory.bin
-1c3a97551ef184cb623e7317fd86a6b31c311677adb7883f0dda2085550ce706  crosspoint-v19.bin
+60cb230254f7594779ad58d431177cbdea1d9f0f1969a5001c2ffc9f279e0466  crosspoint-v1.0.20-factory.bin
+757eb8ec3a6eb59f25bfdd3bb1d6148bf1f7b4c77da92bff82773dcdca5d1133  crosspoint-v1.0.20-metalio_eink4.bin
