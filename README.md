@@ -1,5 +1,6 @@
 # CrossPoint cho Metalio E-Ink 4 — bản Việt hoá v1.0.20 by Huymelon
 
+
 Firmware thay thế cho máy đọc sách **Metalio E-Ink 4** (ESP32-S3, màn e-ink 3,97"), dựng trên mã nguồn mở [CrossPoint Reader](https://github.com/crosspoint-reader/crosspoint-reader).
 
 > **Phát triển bởi Huymelon.** Đây là dự án cá nhân, chia sẻ miễn phí, **không phục vụ mục đích thương mại**. Không bán lại firmware này hay dùng nó để kiếm lời.
@@ -7,6 +8,8 @@ Firmware thay thế cho máy đọc sách **Metalio E-Ink 4** (ESP32-S3, màn e-
 > 🤝 **Rất mong anh em coder cùng góp sức!** Cứ fork, tạo branch mới để thử tính năng, sửa lỗi rồi gửi Pull Request. Chi tiết ở mục [Cùng xây dựng](#6-cùng-xây-dựng).
 
 > ⚠️ Chỉ dành cho **Metalio E-Ink 4**. Không cài lên Xteink X3/X4 hay máy khác. Hãy sao lưu trước khi cài (xem mục 1).
+
+<img width="1280" height="640" alt="social-1280x640" src="https://github.com/user-attachments/assets/99e9ff5e-ed59-4a12-9ece-f759a9d6e0a5" />
 
 ## Có gì trong bản v1.0.20
 
