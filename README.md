@@ -99,7 +99,7 @@ python3 -m esptool --chip esp32s3 --port /dev/cu.usbmodemXXXX write_flash 0x0 me
 
 ## 2b. Cài font và từ điển (không bắt buộc)
 
-Firmware vẫn chạy bình thường khi không có các gói này. Muốn có font đọc sách kèm phiên âm IPA và hai bộ từ điển, hãy tải các gói ở mục [**Releases**](https://github.com/huymelon/Metalio-Pokepoint/releases) của repo. Bạn chỉ cần tải cỡ chữ mình hay dùng:
+Firmware vẫn chạy bình thường khi không có các gói này. Muốn có font đọc sách kèm phiên âm IPA và hai bộ từ điển, hãy tải các gói ở branch [**packs**](https://github.com/huymelon/Metalio-Pokepoint/tree/packs): bấm vào tên file, rồi bấm nút tải xuống. Bạn chỉ cần tải cỡ chữ mình hay dùng:
 
 | Gói | Nội dung | Nguồn và giấy phép |
 |---|---|---|
